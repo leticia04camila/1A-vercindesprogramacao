@@ -11,3 +11,10 @@ color: black;
 text-align-last: left;
 font-size: 40%;
 }
+.itens{
+    font-style: italic;
+    text-align-last: left;
+}
+.beneficios{
+    background-color: antiquewhite;
+}
